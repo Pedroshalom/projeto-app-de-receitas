@@ -39,3 +39,5 @@ npm install
 ## Rode o projeto
 npm start
 
+## <h4>Link para a aplicação</h4>
+https://fast-recipes.netlify.app/
