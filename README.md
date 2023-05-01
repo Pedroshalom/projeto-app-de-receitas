@@ -1,4 +1,4 @@
-# Recipes App
+# App de Receitas
 
 Foi desenvolvido um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
 
@@ -28,10 +28,10 @@ Nesse projeto, foram verificadas as seguintes habilidades:
 ```
 
 ## Clone o repositório
-git clone https://github.com/limaluizpaulo/project-recipes-app/
+git clone https://github.com/Pedroshalom/projeto-app-de-receitas/
 
 ## Encontre o diretório
-cd project-recipes-app
+cd projeto-app-de-receitas
 
 ## Instale as depedências
 npm install
